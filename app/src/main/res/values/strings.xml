@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="delete_item_desc">Do you really want to delete this item?</string>
+    <string name="add">Add</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="description">Description</string>
+    <string name="this_field_is_mandatory">* this field is mandatory</string>
+    <string name="title">Title</string>
+    <string name="add_new_task">Add new task</string>
+</resources>
